@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebMexiFly
+build_property.RootNamespace = WebMexiFly
+build_property.ProjectDir = /Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly/Pages/Flights/List/ListFlights.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmxpZ2h0cy9MaXN0L0xpc3RGbGlnaHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly/Pages/Flights/List/TicketConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmxpZ2h0cy9MaXN0L1RpY2tldENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly/Pages/Users/Registration/UserRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvUmVnaXN0cmF0aW9uL1VzZXJSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/WebMexiFly/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-19jwou2i00

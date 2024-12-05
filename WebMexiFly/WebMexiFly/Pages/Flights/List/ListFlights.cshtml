@@ -1,0 +1,121 @@
+﻿@page
+@model WebMexiFly.Pages.Flights.List.ListFlightsModel
+@{
+    ViewData["Title"] = "Vuelos Disponibles";
+
+}
+
+@functions {
+
+
+
+}
+
+<h1>Vuelos Disponibles</h1>
+
+@if (Model.Flights != null && Model.Flights.Any())
+{
+    <table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Código de Vuelo</th>
+            <th>Origen</th>
+            <th>Destino</th>
+            <th>Fecha y Hora de Salida</th>
+            <th>Asientos Disponibles</th>
+            <th>Seleccionar Categoría</th>
+            <th>Seleccionar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var flight in Model.Flights)
+            {
+                <tr>
+                    <td>@flight.FlightCode</td>
+                    <td>@flight.Origin</td>
+                    <td>@flight.Destination</td>
+                    <td>@flight.DepartureDateTime.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>@flight.TotalSeats</td>
+                    <td>
+                        <!-- Selección de categoría de vuelo con precios dinámicos -->
+                        <select name="selectedCategory_@flight.FlightId" data-flight-id="@flight.FlightId" class="form-control category-select" required>
+                            <option value="">Selecciona una categoría</option>
+                            @foreach (var price in flight.PricesCategory)
+                            {
+                                <option value="@price.CategoryId">@price.CategoryName - @price.Price.ToString("C")</option>
+                            }
+                        </select>
+                    </td>
+                    <td>
+                        <input type="radio" name="SelectedFlightId" value="@flight.FlightId" class="flight-radio" required />
+                    </td> 
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay vuelos disponibles en este momento.</p>
+}
+
+
+
+
+<form method="post" asp-page-handler="Create">
+  <div class="mb-3">
+    <label class="form-label">Nombre</label>
+    <input type="text" class="form-control" name="FirstName">
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Apellido Paterno</label>
+    <input type="text" class="form-control" name="LastNameP">
+  </div>  
+  <div class="mb-3">
+    <label class="form-label">Apellido Materno</label>
+    <input type="text" class="form-control" name="LastNameM">
+  </div>      
+  <div class="mb-3">
+    <label>Correo electronico</label>
+    <input type="email" class="form-control" name="Email">
+  </div> 
+  <div class="mb-3">
+    <label>Número de télefono</label>
+    <input type="text" class="form-control" name="PhoneNumber">
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Enviar</button>
+<!-- Campos ocultos para enviar los datos al servidor -->
+<input type="hidden" id="selectedFlightId" name="SelectedFlightId" />
+<input type="hidden" id="selectedCategoryId" name="SelectedCategoryId" />
+  
+</form>
+
+@section scripts {
+
+<script>
+    // Script para capturar el vuelo seleccionado y la categoría
+    const flightRadios = document.querySelectorAll('.flight-radio');
+    const categorySelects = document.querySelectorAll('.category-select');
+
+    // Capturar el vuelo seleccionado
+    flightRadios.forEach(radio => {
+        radio.addEventListener('change', () => {
+            document.getElementById('selectedFlightId').value = radio.value;
+        });
+    });
+
+    // Capturar la categoría seleccionada
+    categorySelects.forEach(select => {
+        select.addEventListener('change', () => {
+            const flightId = select.getAttribute('data-flight-id');
+            const categoryId = select.value;
+            if (flightId && categoryId) {
+                // Establecer el valor del campo oculto para la categoría seleccionada
+                document.getElementById('selectedCategoryId').value = categoryId;
+                document.getElementById('selectedFlightId').value = flightId;  // Asignar FlightId seleccionado
+            }
+        });
+    });
+</script>
+}

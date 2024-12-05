@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BvWWYxX5UbYkbG4CxLORVUcEhhrTYxVgcKKBFUCA2y8=",
+  "Source": "MexiFly.Services.WebApi",
+  "BasePath": "_content/MexiFly.Services.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

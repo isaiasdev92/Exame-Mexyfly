@@ -1,0 +1,17 @@
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/bin/Debug/net8.0/MexiFly.Infrastructure.deps.json
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/bin/Debug/net8.0/MexiFly.Infrastructure.runtimeconfig.json
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/bin/Debug/net8.0/MexiFly.Infrastructure.dll
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/bin/Debug/net8.0/MexiFly.Infrastructure.pdb
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/bin/Debug/net8.0/MexiFly.Entities.dll
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/bin/Debug/net8.0/MexiFly.Entities.pdb
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/obj/Debug/net8.0/MexiFly.Infrastructure.csproj.AssemblyReference.cache
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/obj/Debug/net8.0/MexiFly.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/obj/Debug/net8.0/MexiFly.Infrastructure.AssemblyInfoInputs.cache
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/obj/Debug/net8.0/MexiFly.Infrastructure.AssemblyInfo.cs
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/obj/Debug/net8.0/MexiFly.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/obj/Debug/net8.0/MexiFly..877D46C5.Up2Date
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/obj/Debug/net8.0/MexiFly.Infrastructure.dll
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/obj/Debug/net8.0/refint/MexiFly.Infrastructure.dll
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/obj/Debug/net8.0/MexiFly.Infrastructure.pdb
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/obj/Debug/net8.0/MexiFly.Infrastructure.genruntimeconfig.cache
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Infrastructure/obj/Debug/net8.0/ref/MexiFly.Infrastructure.dll

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MexiFly.Services.WebApi", "ApiMexiFly\MexiFly.Services.WebApi.csproj", "{7E307C3A-9F3B-46A7-A7AA-793FCE974EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MexiFly.Entities", "MexiFly.Entities\MexiFly.Entities.csproj", "{784213A8-C9AE-4302-BC7E-689E66D50063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MexiFly.Transversal", "MexiFly.Transversal\MexiFly.Transversal.csproj", "{AA628A10-5A2E-4D79-8F6B-418B6EC8D706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MexiFly.Infrastructure", "MexiFly.Infrastructure\MexiFly.Infrastructure.csproj", "{370635E4-7E42-404F-A876-2011DCB03B02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MexiFly.Application", "MexiFly.Application\MexiFly.Application.csproj", "{E372F5BE-30BD-4628-BBEE-9AEA4B728D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E307C3A-9F3B-46A7-A7AA-793FCE974EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E307C3A-9F3B-46A7-A7AA-793FCE974EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E307C3A-9F3B-46A7-A7AA-793FCE974EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E307C3A-9F3B-46A7-A7AA-793FCE974EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784213A8-C9AE-4302-BC7E-689E66D50063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784213A8-C9AE-4302-BC7E-689E66D50063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784213A8-C9AE-4302-BC7E-689E66D50063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784213A8-C9AE-4302-BC7E-689E66D50063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA628A10-5A2E-4D79-8F6B-418B6EC8D706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA628A10-5A2E-4D79-8F6B-418B6EC8D706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA628A10-5A2E-4D79-8F6B-418B6EC8D706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA628A10-5A2E-4D79-8F6B-418B6EC8D706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370635E4-7E42-404F-A876-2011DCB03B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370635E4-7E42-404F-A876-2011DCB03B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370635E4-7E42-404F-A876-2011DCB03B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370635E4-7E42-404F-A876-2011DCB03B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E372F5BE-30BD-4628-BBEE-9AEA4B728D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E372F5BE-30BD-4628-BBEE-9AEA4B728D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E372F5BE-30BD-4628-BBEE-9AEA4B728D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E372F5BE-30BD-4628-BBEE-9AEA4B728D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

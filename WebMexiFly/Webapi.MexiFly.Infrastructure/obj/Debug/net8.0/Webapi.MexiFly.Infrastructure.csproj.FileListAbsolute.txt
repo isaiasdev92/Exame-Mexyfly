@@ -1,0 +1,11 @@
+/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/Webapi.MexiFly.Infrastructure/bin/Debug/net8.0/Webapi.MexiFly.Infrastructure.deps.json
+/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/Webapi.MexiFly.Infrastructure/bin/Debug/net8.0/Webapi.MexiFly.Infrastructure.dll
+/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/Webapi.MexiFly.Infrastructure/bin/Debug/net8.0/Webapi.MexiFly.Infrastructure.pdb
+/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/Webapi.MexiFly.Infrastructure/obj/Debug/net8.0/Webapi.MexiFly.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/Webapi.MexiFly.Infrastructure/obj/Debug/net8.0/Webapi.MexiFly.Infrastructure.AssemblyInfoInputs.cache
+/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/Webapi.MexiFly.Infrastructure/obj/Debug/net8.0/Webapi.MexiFly.Infrastructure.AssemblyInfo.cs
+/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/Webapi.MexiFly.Infrastructure/obj/Debug/net8.0/Webapi.MexiFly.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/Webapi.MexiFly.Infrastructure/obj/Debug/net8.0/Webapi.MexiFly.Infrastructure.dll
+/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/Webapi.MexiFly.Infrastructure/obj/Debug/net8.0/refint/Webapi.MexiFly.Infrastructure.dll
+/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/Webapi.MexiFly.Infrastructure/obj/Debug/net8.0/Webapi.MexiFly.Infrastructure.pdb
+/Users/isaiasmc/workspace/workspace_netcore/WebMexiFly/Webapi.MexiFly.Infrastructure/obj/Debug/net8.0/ref/Webapi.MexiFly.Infrastructure.dll

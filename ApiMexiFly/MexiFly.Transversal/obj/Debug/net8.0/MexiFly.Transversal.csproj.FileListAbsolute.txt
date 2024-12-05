@@ -1,0 +1,11 @@
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Transversal/bin/Debug/net8.0/MexiFly.Transversal.deps.json
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Transversal/bin/Debug/net8.0/MexiFly.Transversal.dll
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Transversal/bin/Debug/net8.0/MexiFly.Transversal.pdb
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Transversal/obj/Debug/net8.0/MexiFly.Transversal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Transversal/obj/Debug/net8.0/MexiFly.Transversal.AssemblyInfoInputs.cache
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Transversal/obj/Debug/net8.0/MexiFly.Transversal.AssemblyInfo.cs
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Transversal/obj/Debug/net8.0/MexiFly.Transversal.csproj.CoreCompileInputs.cache
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Transversal/obj/Debug/net8.0/MexiFly.Transversal.dll
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Transversal/obj/Debug/net8.0/refint/MexiFly.Transversal.dll
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Transversal/obj/Debug/net8.0/MexiFly.Transversal.pdb
+/Users/isaiasmc/workspace/workspace_netcore/ApiMexiFly/MexiFly.Transversal/obj/Debug/net8.0/ref/MexiFly.Transversal.dll

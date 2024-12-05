@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.11.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features/Category/" />
+    <Folder Include="Features/Category/Commands/" />
+    <Folder Include="Features/Category/Queries/" />
+    <Folder Include="Features/User/Queries/" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../MexiFly.Infrastructure/MexiFly.Infrastructure.csproj" />
+    <ProjectReference Include="../MexiFly.Transversal/MexiFly.Transversal.csproj" />
+  </ItemGroup>
+
+</Project>

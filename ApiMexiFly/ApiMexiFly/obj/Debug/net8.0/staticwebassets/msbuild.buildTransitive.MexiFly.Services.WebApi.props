@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/MexiFly.Services.WebApi.props" />
+</Project>
